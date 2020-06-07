@@ -1,0 +1,1 @@
+{"version":3,"sources":["stars.css"],"names":[],"mappings":"AAAA,iBACI,YACJ,CAEA,GACI,SACJ,CAEA,GACI,eACJ","file":"main.8b82bcf8.chunk.css","sourcesContent":[".card-body-stars {\r\n    display: flex;\r\n}\r\n\r\nul {\r\n    padding: 0;\r\n}\r\n\r\nli {\r\n    list-style: none;\r\n}"]}
